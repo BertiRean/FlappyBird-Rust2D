@@ -5,6 +5,10 @@ Basic Flappy Bird example extracted from book:
 Effective Learning through 2D Game Development and Play -
 Herbert Wolverson
 
+## Build Status
+
+![Build Status](https://github.com/BertiRean/FlappyBird-Rust2D/actions/workflows/rust.yml/badge.svg)
+
 ## Know Issues:
  - Pause state is not coded
  - Sprites are using characters like @ and | for be rendered
